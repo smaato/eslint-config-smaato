@@ -1,0 +1,24 @@
+{
+  "name": "javascript-style-guide",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Smaato's ESLint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/eslint/bin/eslint.js . -c ./index.js"
+  },
+  "devDependencies": {
+    "babel-eslint": "4.1.7",
+    "eslint": "1.10.3",
+    "eslint-config-airbnb": "5.0.0",
+    "eslint-plugin-jasmine": "1.6.0",
+    "eslint-plugin-react": "3.16.1"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "javascript",
+    "styleguide"
+  ]
+}
