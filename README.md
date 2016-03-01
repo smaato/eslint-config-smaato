@@ -13,9 +13,9 @@ It is based on https://www.npmjs.com/package/eslint-config-airbnb and provides c
        "babel-eslint": "4.1.7",
        "eslint": "1.10.3",
        "eslint-config-airbnb": "5.0.0",
+       "eslint-config-smaato": "git@github.com:SmaatoUI/eslint-config-smaato.git#v0.0.1",
        "eslint-plugin-jasmine": "1.6.0",
        "eslint-plugin-react": "3.16.1",
-       "javascript-style-guide": "git@github.com:SmaatoUI/eslint-config-smaato.git#v0.0.1"
      }
    }
    ```
