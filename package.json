@@ -1,5 +1,5 @@
 {
-  "name": "javascript-style-guide",
+  "name": "eslint-config-smaato",
   "private": true,
   "version": "0.0.1",
   "description": "Smaato's ESLint config",
@@ -13,12 +13,5 @@
     "eslint-config-airbnb": "5.0.0",
     "eslint-plugin-jasmine": "1.6.0",
     "eslint-plugin-react": "3.16.1"
-  },
-  "keywords": [
-    "eslint",
-    "eslintconfig",
-    "config",
-    "javascript",
-    "styleguide"
-  ]
+  }
 }

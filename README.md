@@ -1,4 +1,4 @@
-# javascript-style-guide
+# eslint-config-smaato
 
 Featuring versioned linter config for JavaScript.
 
@@ -15,7 +15,7 @@ It is based on https://www.npmjs.com/package/eslint-config-airbnb and provides c
        "eslint-config-airbnb": "5.0.0",
        "eslint-plugin-jasmine": "1.6.0",
        "eslint-plugin-react": "3.16.1",
-       "javascript-style-guide": "git@github.com:SmaatoUI/javascript-style-guide.git#v0.0.1"
+       "javascript-style-guide": "git@github.com:SmaatoUI/eslint-config-smaato.git#v0.0.1"
      }
    }
    ```
@@ -25,7 +25,7 @@ It is based on https://www.npmjs.com/package/eslint-config-airbnb and provides c
 3. Then add .eslintrc to the project root and add "extends" section.
    ```json
    {
-     "extends": "javascript-style-guide",
+     "extends": "smaato",
    }
    ```
 
